@@ -18,3 +18,8 @@ Allows the definition of basic variable types, which are double-precision floati
   - Variables can be reassigned by assigning them again
   - Variables which have been defined can be used to evaluate expressions
   - A runtime error occurs if an undeclared variable is used in an expression
+ 
+## Examples
+Evaluate a simple mathematical expression:
+...python
+5.7 * (3.1 - 1.6) / 0.65
