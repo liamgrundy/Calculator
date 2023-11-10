@@ -9,6 +9,4 @@ set(CMAKE_CXX_FLAGS -O3)
 add_executable(Calculator src/main.cpp
         src/parser.cpp
         src/parser.h
-        src/log.h
-        src/calculator.cpp
-        src/calculator.h)
+        src/log.h)
