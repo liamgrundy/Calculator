@@ -21,5 +21,6 @@ Allows the definition of basic variable types, which are double-precision floati
  
 ## Examples
 Evaluate a simple mathematical expression:
-'''python
+```python
 5.7 * (3.1 - 1.6) / 0.65
+```
