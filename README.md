@@ -24,3 +24,13 @@ Evaluate a simple mathematical expression:
 ```python
 5.7 * (3.1 - 1.6) / 0.65
 ```
+
+Declare and assign a variable:
+```
+voltage = 5.735 * 8.453
+```
+
+Use variable in expression:
+```
+3.6 * voltage + 1.5
+```
