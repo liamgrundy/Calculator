@@ -26,11 +26,11 @@ Evaluate a simple mathematical expression:
 ```
 
 Declare and assign a variable:
-```
+```python
 voltage = 5.735 * 8.453
 ```
 
 Use variable in expression:
-```
+```python
 3.6 * voltage + 1.5
 ```
